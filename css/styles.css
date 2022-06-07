@@ -1,0 +1,262 @@
+
+.active{
+  color: green;
+}
+
+.address1{
+  font-weight: bolder;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.addresscont{
+  padding: 1% 5%;
+  text-align: center;
+  font-family: "Montserrat";
+  font-weight: bolder;
+}
+
+.addresshead{
+  margin-bottom: 50px;
+  color: #AAA492;
+}
+
+.addressportals p{
+  color: #212121;
+}
+
+.addressportals .visitit{
+  margin-top: 10px;
+  font-size: 30px;
+  margin-right: 20px;
+}
+
+.addressportals .visitit:hover{
+  font-size: 50px;
+}
+
+
+.addressportals .visititfb:hover, .title-handles .visititfb:hover{
+  color: blue;
+}
+
+.addressportals .visititmail:hover, .title-handles .visititmail:hover{
+  color: red;
+}
+
+.addressportals .visititwa:hover, .title-handles .visititwa:hover{
+  color: green;
+}
+
+.addressportals{
+  padding-top: 20px;
+  text-align: center;
+  font-family: "Montserrat";
+  font-weight: bold;
+  background-color: grey;
+  padding-bottom: 20px;
+}
+
+.anchorhandle, .anchorhandle2{
+  color: #413F42;
+}
+
+.ars{
+  width :900px;
+  /* margin-left: 300px; */
+}
+.arss{
+  width :900px;
+  /* margin-left: 300px; */
+}
+
+.arsbtn{
+  margin: 0 100px;
+}
+
+.arscontentbtn{
+  position: relative;
+  bottom: 140px;
+
+  color: #fff;
+  font-weight: bolder;
+  background-color: black;
+
+}
+.arscontentbtn:hover{
+  color: black;
+  font-weight: bold;
+  background-color: yellow;
+}
+.arscontent{
+  position: relative;
+  bottom: 140px;
+  line-height: 1.5;
+  text-align: center;
+  color: #FFB319;
+  font-weight: bold;
+}
+body{
+  text-align: center;
+}
+.col1{
+  padding-right: 20px;
+}
+
+.col2-1{
+  margin-top: 70px;
+  line-height: 2;
+}
+
+.cont{
+  margin-top: 10px;
+}
+
+.contactmob{
+  position: absolute;
+  top: 90px;
+  right: 100px;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.end{
+  padding: 3% 8%;
+  background-color: #2B2B2B;
+  color: #947f57;
+}
+
+.fc{
+  padding: 7% 5%;
+  margin: 0px;
+  background-image:url(../images/education.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.facultyhead{
+  text-align: center;
+  font-size: 30px;
+}
+
+.facultyname{
+  color: #C69B7B;
+}
+
+.facultysay{
+  font-family: "Anton";
+  font-weight: bold;
+  line-height: 1.5;
+  text-align: center;
+  margin-top: 150px;
+}
+
+.facultysay p{
+  font-family: "Monsterrat";
+  font-size: 30px;
+}
+
+.facultytitle{
+  color: #3A3845;
+}
+
+.facultywords{
+  color: #FDF6EC;
+}
+
+.heads{
+  color: #E0DDAA !important;
+  font-weight: bold;
+}
+
+.heads:hover{
+  color: #A1B57D !important;
+}
+
+hr{
+  width: 50%;
+  margin: 20px auto;
+}
+
+.nav-item{
+  padding: 0 10px;
+  font-family: "Montserrat";
+  font-weight: bolder;
+  text-align: center;
+}
+
+.nav-link{
+  font-size: 1.5rem;
+  font-family: "Ubuntu";
+  font-weight: bold;
+  color: red;
+}
+
+.navbar-brand{
+  font-family: "Permanent-Marker",cursive;
+  font-size: 20px;
+  font-weight: bolder;
+  background-color: grey;
+}
+
+.navbar-brand span{
+  color: #E0DDAA;
+}
+
+.profile{
+  border-radius: 50%;
+  height: 600px;
+  
+}
+
+.school{
+
+  width: 30%;
+  margin: 0 auto;
+  color: #F7CCAC;
+}
+
+.title-div{
+  height: 150px;
+  margin-top: 70px;
+}
+
+.title-handles{
+  width: 15%;
+  position: relative;
+  bottom: 76px;
+  left: 1270px;
+}
+
+.title-handles .visitit{
+  font-size: 40px;
+  margin-right: 30px;
+}
+
+.title-handles .visitit:hover{
+  font-size: 50px;
+}
+
+.title-logo{
+  width: 500px;
+  position: relative;
+  right: 420px;
+}
+
+
+#carouselExampleControls{
+  height: 600px;
+  background-color: #2b2b2b;
+}
+
+#featuresSection{
+  background-color: #947f57;
+  text-align: center;
+}
+
+#titleSection{
+  height: 230px;
+  background-color: #6d6d6d;
+}

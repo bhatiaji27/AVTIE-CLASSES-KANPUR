@@ -1,0 +1,186 @@
+
+.abbb{
+  position: relative;
+  top: 100px;
+  right: 600px;
+}
+
+.addresscont{
+  padding: 0;
+  text-align: center;
+  font-family: "Montserrat";
+  font-weight: bolder;
+}
+
+
+.addressportals .visitit{
+  margin-top: 10px;
+  font-size: 70px;
+}
+
+.anchorhandle2 .visitit{
+  margin: 50px;
+}
+
+
+.ars,.arss{
+  position: relative;
+  /* right: 145px; */
+  top: 77px;
+  width: 70%;
+}
+
+.arsbtn{
+  margin: 0 20px;
+}
+
+.arscontent{
+  position: relative;
+  bottom: 10px;
+}
+
+.arscontentbtn{
+  position: relative;
+   bottom: 20px;
+  /* left: 420px; */
+  color: #fff;
+  font-weight: bolder;
+  background-color: black;
+}
+.arscontentbtn:hover{
+  color: black;
+  font-weight: bold;
+  background-color: yellow;
+}
+
+.coachaddress,.address1{
+  margin-left: 0;
+  font-size: 35px;
+  position: relative;
+  bottom: 50px;
+  margin-right: 0;
+  color: #C69B7B;
+  margin-bottom: 25px;
+}
+
+.coachaddressmap{
+  position: relative;
+  bottom: 10px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 50px;
+}
+
+.col1{
+  padding-right: 0;
+}
+
+.cont{
+  font-size: 35px;
+}
+
+.contactmob{
+  font-size: 30px;
+  top: 100px;
+  right: 55px;
+}
+
+.end{
+  padding:3% 0;
+  background-color: #2B2B2B;
+  color: #947f57;
+}
+
+.endp{
+  font-size: 40px;
+
+}
+
+.endp2{
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+.facultyname{
+  font-size: 70px;
+}
+
+.facultytitle{
+  font-size: 70px;
+}
+
+.facultysay p{
+  margin: 20px 0;
+  font-size: 50px;
+  line-height: 1.5;
+  color: #FFAB4C;
+}
+
+.fc{
+  margin: 0px;
+  background-image:url(../images/education.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.nav-item{
+  margin-right: 80px;
+}
+
+.navbar-brand{
+  width: 80%;
+  position: relative;
+  bottom: 30px;
+  left: 120px;
+  margin-top: 35px;
+}
+
+ /* .profile{
+  position: relative;
+  top: 10px;
+  left: 30px;
+}  */
+
+.school{
+  font-size: 40px;
+}
+
+.title-div{
+  height: 150px;
+  margin-top: 70px;
+}
+
+.title-handles{
+  width: 31%;
+  position: relative;
+  bottom: 76px;
+  left: 680px;
+}
+
+.title-handles .visitit{
+  font-size: 70px;
+  margin-right: 30px;
+}
+
+
+.title-logo{
+  width: 520px;
+  position: relative;
+  right: 200px;
+}
+
+.visitit{
+  font-size: 30px;
+}
+
+
+#carouselExampleControls{
+  background-image: url("../images/titlebg.jpg");
+}
+
+#titleSection{
+  height: 400px;
+  background-image: url("../images/titlebg.jpg");
+}
